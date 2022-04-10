@@ -263,3 +263,5 @@ PageRenderer.renderPage( videoList ); // affiche la liste des vidéos
 ```
 
 **C'est la fin de ce TP, rendez-vous très vite pour le prochain chapitre !**
+
+[Pour accéder au TP suivant, cliquer ici](https://github.com/GuillaumeCar/react-tp3)
